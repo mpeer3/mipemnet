@@ -1,0 +1,13 @@
+ 1 x Dedicated Root Server "Server Auction"
+     * Intel Core i7-8700
+     * 2x SSD M.2 NVMe 1 TB
+     * 4x RAM 32768 MB DDR4
+     * NIC 1 Gbit Intel I219-LM
+     * Standort: Finnland, HEL1
+     * 1 x Primäre IPv4
+     * 1 zusätzliche IPv4
+
+
+     
+
+     
